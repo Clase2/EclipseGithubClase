@@ -17,5 +17,6 @@ public with sharing class ChangePasswordController {
     // Comentario Sublime
     // Comentario Sublime
     // NADA DE NADA
+    // otra cosa
    	public ChangePasswordController() {}
 }
