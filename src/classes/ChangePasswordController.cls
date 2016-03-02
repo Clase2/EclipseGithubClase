@@ -10,12 +10,11 @@ public with sharing class ChangePasswordController {
         return Site.changePassword(newPassword, verifyNewPassword, oldpassword);    
     }
 
-    // esto es un comentario
-    // esto es otro comentario
-    // tercer comentario
-    // Cuarto comentario
-    // Comentario Sublime
-    // Comentario Sublime
-    //Angela  :P
+    // Dejar de meter tanto comentario
+    // mas comentarios 
+
+    // hola mundo
+    //Comentario merge
+    //comentario nuevo
    	public ChangePasswordController() {}
 }
