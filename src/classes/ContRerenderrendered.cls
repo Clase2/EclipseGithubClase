@@ -8,5 +8,5 @@ public class ContRerenderrendered
   return text1;   }set;}
   public string text2 { get; set; }
   public string text3 { get; set; }
-
+	//lo q sea
 }
