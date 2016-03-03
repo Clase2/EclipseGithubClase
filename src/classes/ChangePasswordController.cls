@@ -17,5 +17,6 @@ public with sharing class ChangePasswordController {
     //Comentario merge
     //comentario nuevo isbdi
 //hola como estás?
+// bien y tu?
    	public ChangePasswordController() {}
 }
